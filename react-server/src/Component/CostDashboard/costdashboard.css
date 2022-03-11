@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+
+.cost-dash-board {
+    width: 50%;
+    margin: auto;
+    margin-top: 1.5rem;
+}
+
+.cost-label {
+    font-family: 'Permanent Marker', 'cursive';
+    color: white;
+    align-content: left;
+    margin-top: 1.5rem;
+}
+
+.process-order {
+    font-family: 'Permanent Marker', 'cursive';
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}

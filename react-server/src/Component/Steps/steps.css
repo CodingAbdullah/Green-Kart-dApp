@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+
+.card{
+    border-color: white;
+}
+
+.user-sign-up-icon {
+    padding-left: 20px;
+}
+.card-title {
+    margin-top: 10px;
+    font-family: 'Permanent Marker', 'cursive';
+    color: white;
+}
+.card-text {
+    margin-top: 20px;
+    text-align: left;
+    font-family: 'Kalam';
+    color: white;
+    font-size: large;
+}
+
+.card:hover{
+    background-color: greenyellow;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+.cart-title {
+    font-family: 'Sriracha', cursive;
+    color: white;
+}
+
+.cart-paragraph {
+    font-family: 'Sriracha', cursive;
+    color: white;
+}
+
+.italicK {
+    font-family: 'Pacifico', cursive;
+    color: lightgreen;
+}
+
+.jumbo {
+    margin-top: 25px;
+}
+
+.garden-image {
+    border-color: white;
+    border-width: thick;
+}
+button {
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+}
+
+img {
+    margin-top: 25px;
+}

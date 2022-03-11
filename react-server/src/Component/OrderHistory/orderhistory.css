@@ -1,0 +1,9 @@
+.table {
+    margin-top: 2.5rem;
+    background-color: lightgreen;
+    border: 5px solid green;
+}
+
+.table:hover {
+    background-color: greenyellow;
+}

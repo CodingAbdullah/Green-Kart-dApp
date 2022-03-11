@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+
+h4 {
+    font-family: 'Permanent Marker', 'cursive';
+    margin-bottom: 1.0rem;
+}
+
+.signup-form {
+    margin-top: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 62.5%;
+}
+.signup-container {
+    margin-top: 2.5rem;
+    width: 50%;
+    background-color: lightgreen;
+    border: 5px solid green;
+    padding: 1.5rem;
+
+}
+
+.signup-container:hover {
+    background-color: greenyellow;
+}
+
+.signup-button {
+    font-family: 'Permanent Marker', 'cursive';
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.form-title {
+    margin-top: 1.5rem;
+    font-family: 'Permanent Marker', 'cursive';
+}
+
+.form-check-label {
+    font-family: 'Permanent Marker', 'cursive';
+}

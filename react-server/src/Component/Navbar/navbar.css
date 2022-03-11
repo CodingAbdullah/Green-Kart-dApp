@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.italicK {
+    font-family: 'Pacifico', 'cursive';
+    color: lightgreen;
+}
+.nav-link {
+    font-family: 'Sriracha', 'cursive';
+}
+
+.navbar-brand {
+    font-family: 'Sriracha', 'cursive';
+}
+
+@media (min-width: 768px) {
+    .navbar-brand.abs
+        {
+            position: absolute;
+            width: 100%;
+            left: 0;
+            text-align: center;
+        }
+    }
+
+a {
+    color: white;
+}
+a:hover {
+    color: darkgreen;
+}
+

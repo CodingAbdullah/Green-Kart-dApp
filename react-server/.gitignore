@@ -1,0 +1,2 @@
+# No need to add node modules to repository, please check the package.json file for list of dependencies
+/node_modules
