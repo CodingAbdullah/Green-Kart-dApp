@@ -1,9 +1,15 @@
 .App {
   text-align: center;
+  background-image: url("../src//assets/images//garden.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
 }
 
 .App-logo {
   height: 40vmin;
+  pointer-events: none;
 }
 
 .App-header {
@@ -18,5 +24,5 @@
 }
 
 .App-link {
-  color: #09d3ac;
+  color: #61dafb;
 }
